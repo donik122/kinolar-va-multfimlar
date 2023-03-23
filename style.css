@@ -1,0 +1,250 @@
+body, h1, h2, h3, p, ul 
+{
+	margin: 0;
+}
+
+#header 
+{
+	background-color: coral;
+}
+
+.container
+{
+	width: 70%;
+	margin: 0 auto;
+}
+
+#header h1 
+{
+	color: #fff;
+	font-family: sans-serif;
+	padding: 10px 0;
+}
+
+#navbar
+{
+	background-color: #333;
+}
+
+#navbar ul li
+{
+	list-style-type: none;
+	display: inline;
+}
+#navbar ul li a
+{
+	text-decoration: none;
+	color: #fff;
+	padding: 15px 20px;
+	display: inline-block;
+	font-family: sans-serif;
+}
+
+#navbar ul li a:hover
+{
+	color: yellow;
+}
+
+#navbar ul li:first-child a 
+{
+	padding-left: 0;
+}
+
+#showcase
+{
+	background-image: url(cambg_7.jpg);
+	background-position: center;
+	min-height: 500px;
+	height: 75%;
+}
+
+#showcase h1
+{
+	color: #fff;
+	font-size: 50px;
+	font-family: sans-serif;
+	padding-top: 50px;
+	text-align: center;
+}
+#main 
+{
+	color: #555;
+	margin-top: 30px;
+}
+#main h3 
+{
+  margin-bottom: 20px;
+}
+.content 
+{
+	float: left;
+	width: 70%;
+	box-sizing: border-box;
+	padding-right: 20px;
+}
+
+.sidebar
+{
+	float: left;
+	width: 30%;
+	background-color: #333;
+	color: #fff;
+	padding: 20px 10px;
+	box-sizing: border-box;
+}
+.clr 
+{
+	clear: both;
+}
+
+#footer
+{
+	clear: both;
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	margin-top: 40px;
+	font-family: sans-serif;
+	padding: 30px 0;
+}
+
+.irik
+{
+	background-image: url(cambg_5.jpg);
+}
+.uy
+{
+	background-image: url(cambg_5.jpg);
+}
+
+label
+{
+	display: block;
+	margin-bottom: 5px;
+	color: yellow;
+}
+
+input
+{
+	width: 50%;
+	padding: 10px;
+}
+
+.vid
+{
+  padding: 10px;
+}
+
+#show 
+{
+	background-image: url(Video_20221110191150049_by_VideoShow.png);
+	background-position: center right;
+	min-height: 300px;
+	color: white;
+	text-align: center;
+  font-family: sans-serif;
+}
+
+video
+{
+	padding: 8px 0 0;
+	width: 50%;
+	height: 50%;
+}
+
+#www
+{
+	width: 50%;
+	height: 50%;
+}
+
+#try
+{
+	color: green;
+	background-color: black;
+	text-align: center;
+	font-family: cursive;
+}
+
+#qwer ul li a
+{
+	text-decoration: none;
+	color: #fff;
+	padding: 15px 20px;
+	font-family: sans-serif;
+	margin: 12px;
+}
+
+#qwer ul li a:hover
+{
+	color: yellow;
+}
+
+#qwer ul li:first-child a 
+{
+	padding-left: 12px;
+}
+
+.con
+{
+	width: 70%;
+}
+
+h5
+{
+	text-align: center;
+	color: blueviolet;
+	background-color: black;
+	font-family: cursive;
+	padding: 10px 12px;
+	font-size: 15px;
+}
+
+h6
+{
+	background-image: url(cambg_3.jpg);
+	background-position: center;
+	min-height: 500px;
+	height: 75%;
+	color: #fff;
+	font-size: 50px;
+	font-family: sans-serif;
+	padding-top: 50px;
+	text-align: center;
+
+}
+
+h4
+{
+  color: darkcyan;
+  background-image: url(cambg_6.jpg);
+  background-position: center;
+  font-size: 50px;
+  font-family: sans-serif;
+  text-align: center;
+  min-height: 500px;
+	height: 75%;
+	padding-top: 50px;
+}
+
+#qwerty ul li a
+{
+	text-decoration: none;
+	color: #fff;
+	padding: 15px 20px;
+	font-family: sans-serif;
+	margin: 12px;
+}
+
+#qwerty ul li a:hover
+{
+	color: yellow;
+}
+
+#qwerty ul li:first-child a 
+{
+	padding-left: 12px;
+}
+
+
+
